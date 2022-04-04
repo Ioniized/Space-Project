@@ -15,7 +15,7 @@ var desc = ["Mercury is the first planet from the sun. It is the smallest planet
             ]
             var i = 0;
             function next(){
-                if(i > desc[i].length){
+                if(i > desc[i].length + 1){
                     i = 0;
                 }
                 document.getElementById("description").innerHTML = desc[i]
