@@ -1,0 +1,23 @@
+body{
+    background-color: rgb(68, 111, 155);
+    text-align: center;
+}
+p{
+    font-size: 30px;
+    font-family:'Trebuchet MS';
+    margin-top: 200px;
+}
+
+#image{
+    width: 20%;
+    height: 20%;
+}
+
+#next {
+    border-style: none;
+    background-color: crimson;
+    margin-top: 1%;
+    width: 100px;
+    height: 50px;
+    font-family:'Trebuchet MS';
+}
